@@ -1,0 +1,11 @@
+Temas: POO, condicionales, repetitivas
+Crea una clase CuentaBancaria con atributos privados (titular, saldo, pin).
+● Métodos: depositar(), retirar(), consultarSaldo().
+● En main, simular un cajero automático:
+1. El usuario ingresa su PIN (máximo 3 intentos, si no → cuenta bloqueada).
+2. Una vez dentro, usar un menú con opciones en un while:
+3. Consultar saldo
+4. Retirar dinero (validar que no se pase del saldo)
+5. Depositar dinero
+6. Salir
+Se debe validar todo y repetir hasta que el usuario decida salir.
